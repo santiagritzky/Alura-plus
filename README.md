@@ -1,2 +1,2 @@
 # Alura-plus
-- site feito no curso da alrura de display grid
+- site feito no curso de display grid da alura
